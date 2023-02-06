@@ -1,0 +1,51 @@
+
+@font-face {
+    src : url("../font/Katuri.ttf"); 
+    font-family: 'katuri';
+}
+
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: #222328;
+}
+#wrap{
+    width: 1200px;
+    height: 1000px;
+    background-color: #ffffff;
+    margin:0 auto;
+    color: #222328;
+    font-family: 'katuri';
+}
+
+#header{
+    width: 1200px;
+    height: 100px;
+}
+
+#slide{
+    width: 1200px;
+    height: 350px;
+    background-color:  #ED1C24;
+}
+
+#contents{
+    width: 1200px;
+    height: 350px;
+    background-color:  #ED1C24;
+}
+
+#footer{
+    width: 1200px;
+    height: 100px;
+    background-color:  #ED1C24;
+}

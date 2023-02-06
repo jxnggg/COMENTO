@@ -1,0 +1,10 @@
+
+
+#slide>#main>img{
+    top:100px;
+    position: relative;
+    width: 120%;
+    height: 120%;
+    right: 5%;   
+}
+

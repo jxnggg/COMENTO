@@ -1,0 +1,21 @@
+
+
+
+
+#contents>#copyright>address{
+    position: relative;
+    text-align: center;
+    top: 250px;
+    font-size: 30px;
+    text-align: center;
+    float: left;
+    width:50%;
+}
+
+#contents>#call{
+    position: relative;
+    font-size: 70px;
+    top: 230px;
+    float:right;
+    width:50%;
+}

@@ -1,0 +1,78 @@
+
+
+#slide>#info{
+    font-size: 50px;
+    text-align: center;
+    line-height : 100px;
+}
+
+#slide>#menu{
+    font-size: 50px;
+    text-align: center;
+    line-height : 100px;
+}
+
+#slide>#menu>img{
+    width: 80px;
+    height:80px;
+    margin-top: 30px;
+}
+
+#slide>#log{
+    font-size: 50px;
+    text-align: center;
+    line-height : 100px;
+}
+
+#slide>#log>img{
+    width: 80px;
+    height:80px;
+    margin-top: 10px;
+}
+
+#slide>.nav{
+    float:left;
+    background-color: #ffffff;
+    margin-left: 300px;
+}
+
+#slide>.nav>.gnb{
+    float:right;
+    margin-top:20px;
+    margin-right:20px;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+    
+}
+
+#slide>.nav>.gnb>li{
+    float:left;
+
+}
+
+#slide>.nav>.gnb>li>a{
+    display:block;
+    width:150px;
+    height:50px;
+
+    
+    text-align: center;
+    padding-top:10px;
+
+    font-weight: bold;
+    font-size:30px;
+
+    border:1px solid grey;
+    box-sizing: border-box;
+
+}
+
+.gnb li a:hover {
+    background:black;
+    color:#fff;
+}
+
+

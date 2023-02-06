@@ -1,0 +1,15 @@
+
+
+#footer>#logo{
+    width: 200px;
+    height: 100px;
+
+}
+
+#footer>#logo>img{
+    position: relative;
+    width: 1200px;
+    height: 100px;
+}
+
+
