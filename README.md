@@ -1,2 +1,2 @@
-# web_lec
-web_project
+# 코멘토
+
